@@ -22,7 +22,7 @@ def calc():
         print("выход")
         exit(0)
     else:
-        print("введите корректно")
+        print("Введите корректно")
         calc()
 calc()
 
