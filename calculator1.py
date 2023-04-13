@@ -25,5 +25,6 @@ def calc():
         print("Введите корректно")
         calc()
 
+
 calc()
 
